@@ -1,0 +1,19 @@
+meta {
+  name: Create Customer
+  type: http
+  seq: 4
+}
+
+post {
+  url: http://localhost:3000/customers
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "fullName": "Johanna Belanger",
+    "email": "jbelanger@webtraxllc.com",
+    "phone": "+15412900338"
+  }
+}
