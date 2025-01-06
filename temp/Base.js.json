@@ -1,0 +1,1 @@
+{"data":{"_id":2000,"properties":{},"primaryKeys":[],"filters":{},"hooks":{},"indexes":[],"uniques":[],"className":"Base","abstract":true,"internal":true,"constructorParams":[],"toJsonParams":[],"useCache":true,"path":"./dist/common/base.entity.js"},"origin":"./dist/common/base.entity.js","hash":"e309e2c642fb4dd4bc78e35a3dfb95cf","version":"6.4.2"}
